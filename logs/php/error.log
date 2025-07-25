@@ -1,0 +1,24 @@
+[25-Jul-2025 13:22:48 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:22:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[25-Jul-2025 13:22:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[25-Jul-2025 13:22:58 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:24:49 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:25:53 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:26:04 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:28:05 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:28:11 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:28:13 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:28:14 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:28:14 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:28:18 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:32:23 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:32:38 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:32:51 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:32:52 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:32:55 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:32:56 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:33:21 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:33:21 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:34:25 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:34:25 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
+[25-Jul-2025 13:34:32 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\thiag\Local Sites\webforce-solutions\app\public\wp-content\themes\darkside-theme\functions.php on line 181
