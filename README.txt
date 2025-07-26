@@ -67,6 +67,14 @@ AJUSTES OPCIONAIS
 - Implementar melhorias em JavaScript para interações (ex: menu mobile)
 
 ----------------------------
+ATUALIZAÇÕES RECENTES
+----------------------------
+
+- Melhorias na estrutura da pasta `app/`, otimizando os arquivos do tema.
+- Ajustes em arquivos de scripts e estilos para melhor desempenho.
+- Correção de exibição do menu hambúrguer.
+
+----------------------------
 AUTOR
 ----------------------------
 
