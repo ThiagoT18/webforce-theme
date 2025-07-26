@@ -46,7 +46,7 @@
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'darkside-theme' ); ?></button>
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span>&#9776;</span> <!-- símbolo de menu hambúrguer --></button>
 			<?php
 			wp_nav_menu(
 				array(

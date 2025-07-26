@@ -1105,8 +1105,6 @@ input[type="submit"]:active,
   color: #ccc;
 }
 
-
-/* === CONTATO === */
 /* === SEÇÃO DE CONTATO === */
 .contact {
   background-color: #181818;
@@ -1286,4 +1284,36 @@ input[type="submit"]:active,
   width: 100%;
   text-align: left;
   margin: 0 auto;
+}
+
+/* Mostra/esconde o menu no mobile */
+.menu-toggle {
+  display: none;
+  background-color: #4682B4;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+    margin: 0 auto 10px;
+  }
+
+  .main-navigation ul {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+    background-color: #000;
+    padding: 20px 0;
+  }
+
+  .main-navigation ul.active {
+    display: flex;
+  }
 }
